@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! My name is Ethan :)
+I am a beginner developer and I am excited to hit the ground running!
+I am taking a software engineering bootcamp in September 
+but figured I would get ahead of myself before then! 😀
 
 <!--
 **Nanasi22/Nanasi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Beginner Coding
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
